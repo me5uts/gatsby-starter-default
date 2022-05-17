@@ -31,6 +31,12 @@ const links = [
     description:
       "Now you’re ready to show the world! Give your Gatsby site superpowers: Build and host on Gatsby Cloud. Get started for free!",
   },
+   {
+    text: "Build by codeto8090",
+    url: "https://www.codeto8090.xyz",
+    description:
+      "My web site to study JS.",
+  },
 ]
 
 const samplePageLinks = [
