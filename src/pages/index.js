@@ -14,16 +14,16 @@ const links = [
       "A mafia movie.",
   },
   {
-    text: "Examples",
-    url: "https://github.com/gatsbyjs/gatsby/tree/master/examples",
+    text: "Other web pages.",
+    url: "https://codeto8090.xyz",
     description:
-      "A collection of websites ranging from very basic to complex/complete that illustrate how to accomplish specific tasks within your Gatsby sites.",
+      "A web site for test.",
   },
   {
-    text: "Plugin Library",
-    url: "https://www.gatsbyjs.com/plugins",
+    text: "Windows apps",
+    url: "https://www.twc90.com",
     description:
-      "Learn how to add functionality and customize your Gatsby site or app with thousands of plugins built by our amazing developer community.",
+      "Testing windows apps.",
   },
   {
     text: "Build and Host",
