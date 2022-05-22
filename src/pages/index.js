@@ -26,10 +26,10 @@ const links = [
       "A software suite to calculate the optical, mechanical, vibrational, and other observable properties of materials.",
   },
   {
-    text: "Build and Host",
-    url: "https://www.gatsbyjs.com/cloud",
+    text: "Program 'Peace for Myanmar',
+    url: "https://github.com/Tooral/PeaceForMyanmar",
     description:
-      "Now you’re ready to show the world! Give your Gatsby site superpowers: Build and host on Gatsby Cloud. Get started for free!",
+      "This program is about the country in Asia, and its population that has been suffering from police brutality and coup d'état. ",
   },
 ]
 
