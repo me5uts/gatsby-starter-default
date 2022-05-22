@@ -26,10 +26,10 @@ const links = [
       "A software suite to calculate the optical, mechanical, vibrational, and other observable properties of materials.",
   },
   {
-    text: "Program 'Peace for Myanmar',
-    url: "https://github.com/Tooral/PeaceForMyanmar",
+    text: "Web enthusiats! Go to have a look.',
+    url: "https://www.filamentgroup.com/",
     description:
-      "This program is about the country in Asia, and its population that has been suffering from police brutality and coup d'état. ",
+      "A design and front-end development studio. This I did find in my AppData . ",
   },
 ]
 
