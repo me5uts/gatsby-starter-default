@@ -14,16 +14,16 @@ const links = [
       "A mafia movie.",
   },
   {
-    text: "Other web pages.",
-    url: "https://codeto8090.xyz",
+    text: "Testing clang.",
+    url: "https://clang.llvm.org/",
     description:
-      "A web site for test.",
+      "The Clang project provides a language front-end and tooling infrastructure for languages in the C language family (C, C++, Objective C/C++, OpenCL, CUDA, and RenderScript) for the LLVM project.",        
   },
   {
-    text: "Windows apps",
-    url: "https://www.twc90.com",
+    text: "Ab init page",
+    url: "https://www.abinit.org/",
     description:
-      "Testing windows apps.",
+      "A software suite to calculate the optical, mechanical, vibrational, and other observable properties of materials.",
   },
   {
     text: "Build and Host",
