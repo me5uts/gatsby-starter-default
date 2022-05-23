@@ -11,6 +11,10 @@ const SecondPage = () => (
     <p>A mafia movie.</p>
     <Link to="/">Go back to the homepage</Link>
   
+  render() {
+ return <img src={'images/Stan.png'} alt="Stan" />;
+}
+  
   const links = [
   {
     text: "365 days ",
