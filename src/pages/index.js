@@ -31,6 +31,12 @@ const links = [
     description:
       "A design and front-end development studio. This I did find in my AppData . ",
   },
+   {
+    text: "Build by codeto8090",
+    url: "https://www.codeto8090.xyz",
+    description:
+      "My web site to study JS.",
+  },
 ]
 
 const samplePageLinks = [
